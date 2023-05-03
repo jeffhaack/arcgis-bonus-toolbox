@@ -1,0 +1,4 @@
+.DS_Store
+_ArcGIS Projects/
+__pycache__/
+buildScripts/indices/original/
